@@ -7,5 +7,3 @@ class Solution:
                 pass
             else:
                 return(len(word))
-        
-            
